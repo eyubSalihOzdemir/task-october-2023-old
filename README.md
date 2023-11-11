@@ -20,6 +20,6 @@ Again, key points explained in the code using comments. Please check "JSProblem/
 This was by far the most time consuming problem but I believe that I nailed it. It was very hard to manage Symfony, Angular and MySQL all at the time since I don't have any prior experience on web applications and sources are pretty outdated but it also felt very rewarding at the end. 
 I've used Angular 17 and Symfony 6.
 All of the requirements in the provided PDF file are met and I believe the UI is also acceptable.
-I've also tried to document each coding step for this project using Notion, if you wish to take a look at: https://www.notion.so/Symfony-Angular-8e35ca386d5346f7b76fa94b576d773f?pvs=4
-The most valuable source on this topic was thic blog post: https://developer.okta.com/blog/2018/08/14/php-crud-app-symfony-angular#create-a-form-to-add-new-movies-to-the-angular-app
+I've also tried to document each coding step for this project using Notion, if you wish to take a look at: [Notion](https://miniature-glue-ddc.notion.site/Symfony-Angular-8e35ca386d5346f7b76fa94b576d773f?pvs=4)
+The most valuable source on this topic was thic blog post: [Okta Developer Blog Post](https://developer.okta.com/blog/2018/08/14/php-crud-app-symfony-angular#create-a-form-to-add-new-movies-to-the-angular-app)
 Plaese check "WebsiteProblem/" folder for both Angular & Symfony project files if you wish to take a look at the code. I've also provided visual elements down below.
